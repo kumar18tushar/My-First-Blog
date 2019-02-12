@@ -1,3 +1,3 @@
-# my-first-blog
+# My-First-Blog
 This is a simple blog (more prefferably a daily journal) application developed using Django.<br>
 Deployed over "pythonanywhere.com"
